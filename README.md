@@ -14,6 +14,9 @@ including of the following APIs:
 8. Get number of followers
 9. Get friend demographics
 
+# demo:
+<img src='https://i.imgur.com/pmd95pV.png' />
+
 # resource:
 LineBotSDK：https://www.nuget.org/packages/LineBotSDK  
 相關課程：http://www.studyhost.tw/NewCourses/LineBot   
